@@ -31,7 +31,7 @@ print(Rez)
 
 
 #detyr
-nr1=int(input)("Enter the First Number: ")
-nr2=int(input)("Enter the Second Number: ")
+nr1=int(input("Enter the First Number: "))
+nr2=int(input("Enter the Second Number: "))
 reZZ=nr1+nr2
 print(reZZ)
