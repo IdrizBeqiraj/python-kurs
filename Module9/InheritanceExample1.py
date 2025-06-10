@@ -17,4 +17,3 @@ class Bird(Animal):
 bilbili=Bird()
 bilbili.sings()
 bilbili.fly()
-
