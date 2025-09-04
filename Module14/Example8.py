@@ -2,7 +2,7 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplit as plt
 
-from module1.mian import temperature
+from module1.main import temperature
 
 my_dataset=pd.read_csv("avgIQpercountry.csv")
 my_dataset["Population - 2023"]=my_dataset["Population - 2023"].str.replace(",","").astype(float)
