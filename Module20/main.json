@@ -1,0 +1,14 @@
+{
+  "name" : "Idriz",
+  "age" : 19,
+  "addres" : {
+
+  "street" : "Therande",
+   "postalcode" : "23000"
+}
+
+,
+
+  "hobbies" : [{"sport" : "running"}]
+
+}
